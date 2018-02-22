@@ -20,6 +20,7 @@ indent_mode=2
 [project]
 name=Animation-Course
 base_path=/home/tareq/Code/Animation-Course
+description=
 
 [long line marker]
 long_line_behaviour=1
